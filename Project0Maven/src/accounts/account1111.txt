@@ -1,0 +1,8 @@
+Deposit 1000
+Withdrawal 500
+Deposit 13345
+Deposit 500
+Deposit 300
+Deposit 500
+Deposit 12345
+Withdrawal 400
